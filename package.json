@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "node js with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KOIJAM IBOHAL SINGH (http://koijamishika.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
